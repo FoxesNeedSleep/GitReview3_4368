@@ -17,6 +17,9 @@ public class GitReview2 {
     public static void main(String[] args) {
         
         System.out.println("Git Practice");
+        
+        System.out.println("Modified from Github");
+
                 
         // TODO code application logic here
     }
